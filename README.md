@@ -1,6 +1,6 @@
 # JUnit System Rules Examples
 
-A demonstration how to handle reading/writing from/to _STDOUT_, _STDERR_ and _System Properties_, _Environment Variables_ and _Custom Security Managers_ in [JUnit] tests using the [System Rules].
+A demonstration how to handle reading/writing  _STDOUT_, _STDERR_ and _System Properties_, using _Environment Variables_ or custom _Security Managers_ in [JUnit] tests using the [System Rules].
 
 ## Running the Tests with Gradle
 
